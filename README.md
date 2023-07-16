@@ -1,3 +1,5 @@
 # fuzzy-umbrella
 bang
-Muzammil is lund
+
+< dir 'Muzammil is chutiya />
+System.out.println('Hello World');
