@@ -1,5 +1,5 @@
 # fuzzy-umbrella
 bang
 
-< dir 'Muzammil is chutiya />
+< dir 'Muzzammil />
 System.out.println('Hello World');
